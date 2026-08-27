@@ -13,7 +13,7 @@ st.title("TRADUCTOR.")
 st.subheader("Escucho lo que quieres traducir.")
 
 # Asegúrate de tener esta imagen en la misma ruta, o comenta estas dos líneas
-image = Image.open('OIG7.jpg')
+image = Image.open('perro.jpg')
 st.image(image, width=300)
 
 with st.sidebar:
